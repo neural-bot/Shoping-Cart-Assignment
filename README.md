@@ -1,3 +1,3 @@
 # Shopping Cart Website Assignment
 
-This project is a **responsive shopping cart website** built as part of an assignment for the **Ostad Learning Platform**. The website allows users to browse products, add them to the cart, view the total price, and proceed to purchase. It is designed to be fully responsive, adapting seamlessly to different screen sizes.
+This project is a **responsive shopping cart website** built as part of an assignment for the **Ostad Learning Platform**. The website allows users to browse products, add them to the cart, view the total price, and proceed to purchase.
